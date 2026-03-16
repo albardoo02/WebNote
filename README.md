@@ -10,7 +10,7 @@
 
 ### 1. リポジトリのクローン
 ```bash
-git clone [https://github.com/albardoo02/WebNote.git](https://github.com/albardoo02/WebNote.git)
+git clone https://github.com/albardoo02/WebNote.git
 cd WebNote
 ```
 
